@@ -1,0 +1,9 @@
+com\app\tests\AWSCalculatorTests.class
+com\app\utilities\BrowserUtils.class
+com\app\utilities\BrowserUtils$1.class
+com\app\utilities\TestBase.class
+com\app\pages\AwsCalculatorPage.class
+com\app\utilities\BrowserUtils$2.class
+com\app\tests\GitLinks.class
+com\app\utilities\ConfigurationReader.class
+com\app\utilities\Driver.class

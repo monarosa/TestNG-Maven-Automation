@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Presta shop smoke test" duration-ms="8917" started-at="2019-04-17T03:17:40Z" finished-at="2019-04-17T03:17:49Z">
+    <groups>
+    </groups>
+    <test name="Automated tests" duration-ms="8917" started-at="2019-04-17T03:17:40Z" finished-at="2019-04-17T03:17:49Z">
+      <class name="com.app.tests.GitLinks">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.app.tests.GitLinks@33cb5951]" name="setUp" is-config="true" duration-ms="2958" started-at="2019-04-17T03:17:40Z" finished-at="2019-04-17T03:17:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="test()[pri:0, instance:com.app.tests.GitLinks@33cb5951]" name="test" duration-ms="5943" started-at="2019-04-17T03:17:43Z" finished-at="2019-04-17T03:17:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- com.app.tests.GitLinks -->
+    </test> <!-- Automated tests -->
+  </suite> <!-- Presta shop smoke test -->
+</testng-results>
